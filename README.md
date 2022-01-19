@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alexander, or @Alk4de
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Alexander, or @Alk4de(https://github.com/Alk4de)
+- 👀 I’m interested in a lot :)
 - 🌱 I’m currently learning too many different things.
 - 📫 You can reach me @ Alexander.Kadeby@gmail.com
 
