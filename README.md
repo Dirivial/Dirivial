@@ -4,7 +4,7 @@
 - 📫 You can reach me @ Alch4ize@gmail.com
 
 I made a website some time ago:
-[website](https://Alchaize.github.io/)
+[website](https://alchaize.github.io/portfolio)
 
 <!---
 Alchaize/Alchaize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
