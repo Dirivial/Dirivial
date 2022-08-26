@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Alexander, or [@Dirivial](https://github.com/Dirivial)
 - 👀 I’m interested in a lot :)
-- 🌱 I’m currently learning too many different things.
+- 🌱 I’m currently learning frontend development
 - 📫 You can reach me @ Alch4ize@gmail.com
 
-I made a website some time ago:
-[website](https://dirivial.github.io/)
+[Portfolio site](https://dirivial.github.io/)<br />
+[My spin on Trello](https://issues-dirivial.vercel.app/)
 
 <!---
 Dirivial/Dirivial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
