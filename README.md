@@ -1,6 +1,6 @@
-- Hi, I’m Alexander, or [@Dirivial](https://github.com/Dirivial)
-- I’m interested in programming, technology, reading, climbing and weightlifting.
-- I’m currently learning web development as well as some AI. I'm more focused on web development at the moment.
+- Hi, My name is Alexander, or [@Dirivial](https://dirivial.dev/)
+- I am interested in programming, technology, reading, climbing and weightlifting.
+- Currently learning web development as well as some AI. I'm more focused on web development at the moment.
 - You can reach me @ Alexander.Kadeby@gmail.com
 
 <!---
