@@ -1,6 +1,6 @@
 - Hi, My name is Alexander, or [@Dirivial](https://dirivial.dev/)
 - I am interested in programming, technology, reading, climbing, and weightlifting.
-- Currently, I'm learning some web and game development.
+- What I am learning is constantly changing, but I often find myself reverting to webdev, gamedev and/or clistuff.
 - You can reach me @ Alexander.Kadeby@gmail.com
 
 <!---
