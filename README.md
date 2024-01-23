@@ -1,7 +1,8 @@
-- Hi, My name is Alexander, or [@Dirivial](https://dirivial.dev/)
-- I am interested in programming, technology, reading, climbing, and weightlifting.
-- What I am learning is constantly changing, but I often find myself reverting to webdev, gamedev and/or clistuff.
-- You can reach me @ Alexander.Kadeby@gmail.com
+# Alex / [Dirivial](https://dirivial.dev/)
+
+I love coding, technology, music, and rock climbing.
+
+Generally, I work on web dev, game dev, or CLI stuff.
 
 <!---
 Dirivial/Dirivial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
