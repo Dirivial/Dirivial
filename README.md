@@ -1,4 +1,4 @@
-# Alex / [Dirivial](https://dirivial.dev/)
+# Alex / [Dirivial](https://alekad.net/)
 
 I love coding, technology, music, and rock climbing.
 
